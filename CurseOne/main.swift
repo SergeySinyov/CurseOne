@@ -9,3 +9,9 @@ import Foundation
 
 print("Hello, World!")
 
+let name = "Evgenii"
+if name == "Evgenii" {
+    print("You best teacer basics of programming!!!")
+} else {
+    print("Другого не может быть!!!")
+}
